@@ -32,3 +32,4 @@ while x1 < x2:
         else:
             print("F = ", round((x1 / c), 3),',','x =',x1)
     x1 = round(step + x1, 3)
+#final
