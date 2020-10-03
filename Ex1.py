@@ -25,7 +25,7 @@ while x1 < x2:
             print('F = ', round((x1 - a) / (x1 - c), 3),',','x =',x1)
         else:
             print("Error: denominator equals 0, that's impossible")
-            #знаменник не може дорівнювати 0
+
     else:
         if c == 0:
             print("Error, c can't be 0")
